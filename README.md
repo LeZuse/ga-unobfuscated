@@ -13,3 +13,8 @@ And also, because I can 8)!
 
 ## Credits
 - http://blog.xam.de/2008/07/towards-gajs-un-obfuscated.html
+
+## Other useful resources
+- https://developers.google.com/analytics/devguides/collection/analyticsjs/
+- http://xahlee.info/js/google_analytics_tracker_code.html
+- http://philipwalton.com/articles/stop-copying-social-code-snippets/
