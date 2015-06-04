@@ -18,3 +18,4 @@ And also, because I can 8)!
 - https://developers.google.com/analytics/devguides/collection/analyticsjs/
 - http://xahlee.info/js/google_analytics_tracker_code.html
 - http://philipwalton.com/articles/stop-copying-social-code-snippets/
+- https://brianclifton.com/blog/category/ga-hacks/
